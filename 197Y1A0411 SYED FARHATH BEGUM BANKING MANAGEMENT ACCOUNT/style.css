@@ -1,0 +1,54 @@
+header{
+
+	font-size: 50;
+	color:black;
+	text-align: center;
+	background-color:blue;
+	width:100%;
+	line-height: 2;
+	top: 0;
+	right: 0;
+	left: 0;
+
+}
+div.gfg {
+				background-color:white;
+                width: 20%;
+                height: 550px;
+                float:left;
+                overflow-x: hidden;
+                overflow-y: auto;
+
+            }
+
+button{
+
+	text-align: center;
+	background-color: ;
+	color: white;
+	font-size: 20px;
+	size: 50px;
+	width: 90%;
+	margin: 5px;
+	padding: 1rem 5rem;
+
+}
+button:hover
+ {
+ 	background-color: red;
+ 	color: white;
+ }
+footer
+{
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	background-color:purple ;
+	bottom: 0;
+}
+#sidebar{
+background-color:blue;
+min-width:350px;
+min-height: 550px;
+margin-left: 25%;
+}
